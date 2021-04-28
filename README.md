@@ -6,7 +6,8 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Installation](#installation)
 - [Credits](#credits)
 - [License](#license)
-- [Screenshot](#screenshot)
+- [Screenshot](#screenshot) 
+- [Demo](#Demo)
 
 ## Installation
 I have to place my work onto Github. First you have to create a new repository and give it a name. Be sure to make this new repository public and add a readme. Once that is done, there will be a green button, and once clicked, clone will be at the top with three options underneath. Click the ssh option. And then copy the link. Then go to the terminal. open the directory (type in ls) and then change into the specific directory (type in cd and the name of the directory) that you would like to place this project. Then you have to run a git add . command, followed by, a git commit -m "enter description of changes made" command. Then lastly run a git push command to publish the project onto Github.
@@ -42,3 +43,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Screenshot 
+
+
+## Demo 
+https://drive.google.com/file/d/1wZhaUWLL1xDpXnwJmto4rl1O_VY4xf0f/view
