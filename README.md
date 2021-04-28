@@ -43,7 +43,7 @@ OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
 WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ## Screenshot 
-
+<img width="603" alt="Screen Shot 2021-04-27 at 8 27 45 PM" src="https://user-images.githubusercontent.com/76064980/116328499-23f39b80-a797-11eb-9477-8e2ef11aa407.png">
 
 ## Demo 
 https://drive.google.com/file/d/1wZhaUWLL1xDpXnwJmto4rl1O_VY4xf0f/view
